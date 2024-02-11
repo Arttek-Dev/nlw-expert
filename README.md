@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
+  Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://arttek-dev.github.io/nlw-experts/">GitHub Pages</a>
 </p>
 
 <p align="center">
@@ -30,11 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-
 ## 💻 Projeto
 
-Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
-
+Neste projeto, você vai desenvolver um quiz para testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
 
 ## 📝 Licença
 
